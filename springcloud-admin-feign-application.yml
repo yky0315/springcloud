@@ -28,4 +28,4 @@ hystrix:
           thread:             #线程池隔离
             timeoutInMilliseconds: 4000 #断路器超时时间，默认1000ms
 admin:
-    username: abc
+    username: yky
